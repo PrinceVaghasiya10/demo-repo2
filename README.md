@@ -1,4 +1,4 @@
 # demo-repo2
 This is my first git repo.
 <br>
-Author - Prince Vaghasiya.
+Author - Prince Vaghasiya(MnC).
